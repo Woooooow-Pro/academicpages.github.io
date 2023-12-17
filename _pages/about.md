@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Graduate student at [Fudan University](https://www.fudan.edu.cn/) advised by Prof. Zhenying He. Currently, I am conducting remote research internship under the supervision of Prof. [Siqiang Luo](http://siqiangluo.com/) at [Nanyang Technological University](https://www.ntu.edu.sg/scse).
+I am a second-year CS Graduate student at [Fudan University](https://www.fudan.edu.cn/) advised by Prof. Zhenying He. Currently, I am conducting a remote research internship under the supervision of Prof. [Siqiang Luo](http://siqiangluo.com/) at [Nanyang Technological University](https://www.ntu.edu.sg/scse).
 
 Before the graduate school, I got my bachelor degree from Computer Science Department at [Fudan University](https://www.fudan.edu.cn/) guided by Prof. Zhenying He for research.
 
