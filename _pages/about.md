@@ -14,7 +14,7 @@ Before the graduate school, I got my bachelor degree from Computer Science Depar
 
 ## Research Interests
 
-My research lies at the intersection of machine learning and data-intensive systems. My overarching goal is to pioneer the development of a comprehensive system or toolkit that not only simplifies the research of the AI but also expedites the entire process —- from environmental deployment and configuration to training and inferencing acceleration —- making AI more accessible and efficient.
+My research lies at the intersection of machine learning and data-intensive systems. My overarching goal is to pioneer the development of a comprehensive system or toolkit that not only simplifies the research of the AI but also expedites the entire process — from environmental deployment and configuration to training and inferencing acceleration - making AI more accessible and efficient.
 
 
 <!-- Previously, my research focused on utilizing machine learning methods to enhance the ability of data-intensive systems. Now, I am looking forward to a research opportunity to build a system to support today's enormous AI models. -->
@@ -22,11 +22,12 @@ My research lies at the intersection of machine learning and data-intensive syst
 ## Publications
 
 <!-- 1. Oasis: An Optimal Disjoint Segmented Learned Range Filter</br> -->
-- A Novel Learned Range Filter</br>
-  *In submission to VLDB 2024*
-- Gar: A Generate-and-Rank Approach for Natural Language to SQL Translation</br>
-  *IEEE International Conference on Data Engineering (ICDE) 2023*</br>
-  Y Fan, Z He, T Ren, D Guo, L Chen, R Zhu, **G Chen**, Y Jing, K Zhang, XS Wang
+- A Novel Learned Range Filter
+  - *In submission to VLDB 2024*
+  - **Guanduo Chen**, Zhenying He, Meng Li, Siqiang Luo
+- Gar: A Generate-and-Rank Approach for Natural Language to SQL Translation
+  - *IEEE International Conference on Data Engineering (ICDE) 2023*
+  - Y Fan, Z He, T Ren, D Guo, L Chen, R Zhu, **G Chen**, Y Jing, K Zhang, XS Wang
 
 
 ## Education
