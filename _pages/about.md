@@ -12,7 +12,7 @@ I am a second-year CS Graduate student at [Fudan University](https://www.fudan.e
 
 Prior to my internship with Prof. Yuan, I served as a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse),  where I worked under the mentorship of Prof. [Siqiang Luo](http://siqiangluo.com/). I got my bachelor degree from Computer Science Department at [Fudan University](https://www.fudan.edu.cn/) guided by Prof. Zhenying He for research.
 
-**As I look forward to pursuing a PhD, slated for Fall Intake 2025,**, I am eager to explore various research topics and opportunities. If you'd like to connect and discuss potential collaborations or research topics, please don't hesitate to reach out!
+**As I look forward to pursuing a PhD, slated for Fall Intake 2025**, I am eager to explore various research topics and opportunities. If you'd like to connect and discuss potential collaborations or research topics, please don't hesitate to reach out!
 
 ## Research Interests
 
