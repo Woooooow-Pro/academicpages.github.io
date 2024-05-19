@@ -29,10 +29,10 @@ My research lies at the intersection of machine learning and data-intensive syst
 <!-- 1. Oasis: An Optimal Disjoint Segmented Learned Range Filter</br> -->
 - Oasis: An Optimal Disjoint Segmented Learned Range Filter
   - **Guanduo Chen**, Zhenying He, Meng Li, Siqiang Luo
-  - **VLDB 2024** [[Code](https://github.com/Woooooow-Pro/Oasis-RangeFilter)]
+  - **VLDB 2024** [[Paper](https://www.vldb.org/pvldb/vol17/p1911-luo.pdf)] [[Code](https://github.com/Woooooow-Pro/Oasis-RangeFilter)]
 - Gar: A Generate-and-Rank Approach for Natural Language to SQL Translation
   - Y Fan, Z He, T Ren, D Guo, L Chen, R Zhu, **G Chen**, Y Jing, K Zhang, XS Wang
-  - **ICDE 2023** [[Paper]](https://ieeexplore.ieee.org/document/10184517) [[Code](https://github.com/Kaimary/GAR)]
+  - **ICDE 2023** [[Paper](https://ieeexplore.ieee.org/document/10184517)] [[Code](https://github.com/Kaimary/GAR)]
 
 
 <!-- ## Education
