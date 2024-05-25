@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year CS Graduate student at [Fudan University](https://www.fudan.edu.cn/). Currently, I am engaged in a remote research internship supervised by Prof. [Binhang Yuan](https://binhangyuan.github.io/site/) at [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk).
 
-Prior to my internship with Prof. Yuan, I served as a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse),  where I worked under the mentorship of Prof. [Siqiang Luo](http://siqiangluo.com/). I got my bachelor degree from Computer Science Department at [Fudan University](https://www.fudan.edu.cn/) guided by Prof. Zhenying He for research.
+Prior to my internship with Prof. Yuan, I served as a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse),  where I worked under the mentorship of Prof. [Siqiang Luo](http://siqiangluo.com/). I got my bachelor degree from Computer Science Department at [Fudan University](https://www.fudan.edu.cn/).
 
 My research interests lie at the intersection of machine learning and data-intensive systems, e.g., leveraging machine learning techniques to accelerate query process in big data systems and employing system method to enhance the efficiency and affordability of large language models.
 
