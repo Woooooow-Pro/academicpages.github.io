@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Graduate student at [Fudan University](https://www.fudan.edu.cn/) under the guidance of Prof. Zhenying He. Currently, I am engaged in a remote research internship supervised by Prof. [Binhang Yuan](https://binhangyuan.github.io/site/) at [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk).
+I am a second-year CS Graduate student at [Fudan University](https://www.fudan.edu.cn/). Currently, I am engaged in a remote research internship supervised by Prof. [Binhang Yuan](https://binhangyuan.github.io/site/) at [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk).
 
 Prior to my internship with Prof. Yuan, I served as a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse),  where I worked under the mentorship of Prof. [Siqiang Luo](http://siqiangluo.com/). I got my bachelor degree from Computer Science Department at [Fudan University](https://www.fudan.edu.cn/) guided by Prof. Zhenying He for research.
 
