@@ -12,7 +12,7 @@ I am currently a final-year CS graduate student at [Fudan University](https://ww
 
 Before my internship at Meituan, I completed a remote research internship supervised by [Prof. Binhang Yuan](https://binhangyuan.github.io/site/) at [HKUST](https://cse.hkust.edu.hk). Prior to that, I was a research intern at [NTU](https://www.ntu.edu.sg/scse), where I worked under the mentorship of [Prof. Siqiang Luo](http://siqiangluo.com/).
 
-I am passionate about developing AI systems for downstream applications, and my recent focus has been on building efficient training systems for large foundation models. Additionally, I am trying to participate in [SGLang](https://github.com/sgl-project/sglang), an fantastic framework for serving foundation models, as a side project.
+I am passionate about developing AI systems for downstream applications, and my recent focus has been on building efficient training systems for large foundation models. Additionally, I am trying to participate in [SGLang](https://github.com/sgl-project/sglang), a fantastic framework for serving foundation models, as a side project.
 
 **I am currently exploring opportunities in the job market.** If you are interested in my profile, feel free to reach out!
 
