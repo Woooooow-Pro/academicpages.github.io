@@ -35,7 +35,7 @@ I am currently exploring opportunities in the job market. If you are interested 
 
 - **CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models [preprint]**\
   *Hong Kong University of Science and Technology, (03/2024 - 01/2025)*\
-  *Collaborated with [Prof. Binhang Yuan](https://binhangyuan.github.io/site/)*
+  *Collaborated with [Prof. Binhang Yuan](https://binhangyuan.github.io/site/) and [Prof. Kun Yuan](https://kunyuan827.github.io)*
   - **Algorithm Development:** Developed *CE-LoRA*, a high-efficiency algorithm for parameter-efficient fine-tuning (PEFT), which significantly reduced backpropagation costs in large language model training. By leveraging structured sparsity and low-rank approximation techniques, the model achieved a $3.39\times$ improvement in training efficiency without sacrificing accuracy.  
   - **Theoretical Analysis:** Conducted a rigorous convergence analysis, proving that *CE-LoRA* maintains the same convergence rate as LoRA, but with reduced computational overhead.
 
