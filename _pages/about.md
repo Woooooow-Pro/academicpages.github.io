@@ -42,7 +42,7 @@ I am passionate about developing AI systems for downstream applications, and my 
 
 - **Oasis: An Optimal Disjoint Segmented Learned Range Filter [VLDB 24]**\
   *Nanyang Technological University, (02/2023 - 11/2023)*\
-  *Collaborated with [Prof. Siqiang Luo](http://siqiangluo.com/)*
+  *Collaborated with [Prof. Siqiang Luo](http://siqiangluo.com/) and [Dr. Meng Li](https://njulimn.github.io)*
   - **Oasis:** Developed *Oasis*, a learned range filter that segments the key space into non-overlapping intervals and maps data into a bitmap using a linear model-simulated CDF as the hash function. The filter utilizes block-based Elias-Fano compression to reduce space overhead without compromising query efficiency.  
   - **Oasis+:** Created *Oasis+*, a hybrid range filter that combines learning-based and hash-based methods to enhance filter applicability and robustness across various workloads.  
   - **Integration into RocksDB:** Integrated *Oasis* and *Oasis+* into RocksDB and tested their performance, achieving up to $6.2\times$ improvement in query response times.
