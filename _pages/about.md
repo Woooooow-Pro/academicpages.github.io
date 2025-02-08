@@ -14,7 +14,7 @@ Before my internship at Meituan, I completed a remote research internship superv
 
 I am passionate about developing AI systems for downstream applications, and my recent focus has been on building efficient training systems for large foundation models. Additionally, I am trying to participate in [SGLang](https://github.com/sgl-project/sglang), an fantastic framework for serving foundation models, as a side project.
 
-I am currently exploring opportunities in the job market. If you are interested in my profile, feel free to reach out!
+**I am currently exploring opportunities in the job market.** If you are interested in my profile, feel free to reach out!
 
 
 ## Industry Experiences
