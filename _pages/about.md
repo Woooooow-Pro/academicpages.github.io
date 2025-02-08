@@ -8,48 +8,69 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Graduate student at [Fudan University](https://www.fudan.edu.cn/). Currently, I am engaged in a remote research internship supervised by Prof. [Binhang Yuan](https://binhangyuan.github.io/site/) at [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk).
+I am currently a final-year CS graduate student at [Fudan University](https://www.fudan.edu.cn/), and I am interning at Meituan, where I am working on developing a system to support the training of large, multi-modality models.
 
-Prior to my internship with Prof. Yuan, I served as a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse),  where I worked under the mentorship of Prof. [Siqiang Luo](http://siqiangluo.com/). I got my bachelor degree from Computer Science Department at [Fudan University](https://www.fudan.edu.cn/).
+Before my internship at Meituan, I completed a remote research internship supervised by [Prof. Binhang Yuan](https://binhangyuan.github.io/site/) at [HKUST](https://cse.hkust.edu.hk). Prior to that, I was a research intern at [NTU](https://www.ntu.edu.sg/scse), where I worked under the mentorship of [Prof. Siqiang Luo](http://siqiangluo.com/).
 
-My research interests lie at the intersection of machine learning and data-intensive systems, e.g., leveraging machine learning techniques to accelerate query process in big data systems and employing system method to enhance the efficiency and affordability of large language models.
+I am passionate about developing AI systems for downstream applications, and my recent focus has been on building efficient training systems for large foundation models. Additionally, I am contributing to [SGLang](https://github.com/sgl-project/sglang), an exciting framework for serving foundation models, as a side project.
 
-**As I look forward to pursuing a PhD, slated for Fall Intake 2025**, I am eager to explore various research topics and opportunities. If you'd like to connect and discuss potential collaborations or research topics, please don't hesitate to reach out!
-
-<!-- ## Research Interests
-
-My research lies at the intersection of machine learning and data-intensive systems.  -->
-<!-- My overarching goal is to pioneer the development of a comprehensive system or toolkit that not only simplifies the research of the AI but also expedites the entire process — from environmental deployment and configuration to training and inferencing acceleration - making AI more accessible and efficient. -->
+I am currently exploring opportunities in the job market. If you are interested in my profile, feel free to reach out!
 
 
-<!-- Previously, my research focused on utilizing machine learning methods to enhance the ability of data-intensive systems. Now, I am looking forward to a research opportunity to build a system to support today's enormous AI models. -->
+## Industry Experiences
+
+- **Training System Engineering Intern**</br>
+  *Meituan, Large Model Architecture Team, (01/2025 - Present)*
+  - **Vision Encoder Long Context Training Support:** Designed and developed a context-parallelism mechanism for the vision encoder of a large multi-modality model.
+
+
+- **Database System R&D Intern**</br>
+  *ByteDance,  ByteHouse Runtime Team, (12/2023 - 04/2024)*
+  - **[Geographic Data Aggregation Query Benchmark](https://mp.weixin.qq.com/s/DjvzJa_QZxH5zWcMLo-JXQ):** Developed and benchmarked geospatial aggregation queries on the NYC Taxi dataset, identifying performance disparities across major database platforms (StarRocks, ClickHouse, PostGIS, DuckDB, and ByteHouse-CE). This analysis provided actionable insights for optimizing geospatial query execution.  
+  - **Geospatial Data Support for CNCH:** Integrated geometry data types into ByteHouse-CNCH (Cloud Native ClickHouse) via the geos library, enhancing its capabilities and improving data representation efficiency.  
+  - **Geospatial Index Design:** Led the design and implementation of multi-level indexing (disk and memory cache) for geospatial data, reducing query latency by $50\%$ compared to the base ClickHouse implementation.
+
+
+## Research Experiences
+
+- **CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models [preprint]**</br>
+  *Hong Kong University of Science and Technology, (03/2024 - 01/2025)*</br>
+  *Collaborated with [Prof. Binhang Yuan](https://binhangyuan.github.io/site/)*
+  - **Algorithm Development:** Developed *CE-LoRA*, a high-efficiency algorithm for parameter-efficient fine-tuning (PEFT), which significantly reduced backpropagation costs in large language model training. By leveraging structured sparsity and low-rank approximation techniques, the model achieved a $3.39\times$ improvement in training efficiency without sacrificing accuracy.  
+  - **Theoretical Analysis:** Conducted a rigorous convergence analysis, proving that *CE-LoRA* maintains the same convergence rate as LoRA, but with reduced computational overhead.
+
+
+- **Oasis: An Optimal Disjoint Segmented Learned Range Filter [VLDB 24]**</br>
+  *Nanyang Technological University, (02/2023 - 11/2023)*</br>
+  *Collaborated with [Prof. Siqiang Luo](http://siqiangluo.com/)*
+  - **Oasis:** Developed *Oasis*, a learned range filter that segments the key space into non-overlapping intervals and maps data into a bitmap using a linear model-simulated CDF as the hash function. The filter utilizes block-based Elias-Fano compression to reduce space overhead without compromising query efficiency.  
+  - **Oasis+:** Created *Oasis+*, a hybrid range filter that combines learning-based and hash-based methods to enhance filter applicability and robustness across various workloads.  
+  - **Integration into RocksDB:** Integrated *Oasis* and *Oasis+* into RocksDB and tested their performance, achieving up to $6.2\times$ improvement in query response times.
+
+- **Gar: A Generate-and-Rank Approach for Natural Language to SQL Translation [ICDE 23]**</br>
+  *Fudan University, (07/2021 - 02/2022)*</br>
+  *Collaborated with [Prof. X. Sean Wang](https://daslab.fudan.edu.cn/61/83/c26852a287107/page.htm)*
+  - **Text2SQL Framework Development:** Developed the GAR framework for Text2SQL translation, using a unique "Generate-and-Rank" approach that leverages parsing, generation, and ranking strategies for high-accuracy SQL generation from natural language queries.
+  - **Benchmarking:** Built and tested a complex benchmark with self-joins, analyzing GAR's performance against other end-to-end models, providing crucial insights into its strengths in complex query generation.
+
 
 ## Publications
 
-<!-- 1. Oasis: An Optimal Disjoint Segmented Learned Range Filter</br> -->
-- Oasis: An Optimal Disjoint Segmented Learned Range Filter
-  - **Guanduo Chen**, Zhenying He, Meng Li, Siqiang Luo
-  - **VLDB 2024** [[Paper](https://www.vldb.org/pvldb/vol17/p1911-luo.pdf)] [[Code](https://github.com/Woooooow-Pro/Oasis-RangeFilter)]
-- Gar: A Generate-and-Rank Approach for Natural Language to SQL Translation
-  - Y Fan, Z He, T Ren, D Guo, L Chen, R Zhu, **G Chen**, Y Jing, K Zhang, XS Wang
-  - **ICDE 2023** [[Paper](https://ieeexplore.ieee.org/document/10184517)] [[Code](https://github.com/Kaimary/GAR)]
+- **[preprint] CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models**</br>
+  <u>**Guanduo Chen**</u>, <u>Yutong He</u>, Yipeng Hu, Kun Yuan, Binhang Yuan</br>
+  [[Paper](https://arxiv.org/pdf/2502.01378)]
+
+- **[VLDB 24] Oasis: An Optimal Disjoint Segmented Learned Range Filter**</br>
+  **Guanduo Chen**, Zhenying He, Meng Li, Siqiang Luo</br>
+  [[Paper](https://www.vldb.org/pvldb/vol17/p1911-luo.pdf), [Code](https://github.com/Woooooow-Pro/Oasis-RangeFilter)]
+
+- **[ICDE 23] Gar: A Generate-and-Rank Approach for Natural Language to SQL Translation**</br>
+  Y Fan, Z He, T Ren, D Guo, L Chen, R Zhu, **G Chen**, Y Jing, K Zhang, XS Wang</br>
+  [[Paper](https://ieeexplore.ieee.org/document/10184517), [Code](https://github.com/Kaimary/GAR)]
 
 
-<!-- ## Education
 
-- **M.S.** Computer Science Department Fudan University (2022/09 - 2025/06 Expected)
-- **B.S.** Computer Science Department Fudan University (2018/09 - 2022/06) -->
+## Education
 
-## Work Experience
-
-- **Research Intern (In Progress)** 
-  - *Hong Kong University of Science and Technology* (2024/03 - Now)
-  - Conducting research to accelerate the LLM fine-tuning process.
-
-- **SDE Intern** 
-  - *ByteDance* (2023/12 - 2024/03)
-  - Added support for geometry data type and corresponding geometry primary index in ByteHouse, a cloud-native data warehouse built on ClickHouse.
-
-- **Research Intern** 
-  - *Nanyang Technological University* (2023/02 - 2023/11)
-  - Developed a novel learned range filter to accelerate the range query process in LSM-Tree based data storage systems (Accepted to VLDB'24).
+- **M.S.** Computer Science Department Fudan University (09/2022 - 06/2025 Expected)
+- **B.S.** Computer Science Department Fudan University (09/2018 - 06/2022)
